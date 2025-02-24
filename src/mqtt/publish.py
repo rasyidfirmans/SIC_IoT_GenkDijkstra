@@ -43,8 +43,10 @@ while True:
   dht_sensor.measure() 
 
   message = ujson.dumps({
+    "timestamp": time.time(),
     "temperature": dht_sensor.temperature(),
-    "humidity": dht_sensor.humidity()
+    "humidity": dht_sensor.humidity(),
+    "motion": pir_sensor.value()
   })
   if message != prev_weather:
     print("Updated!")
