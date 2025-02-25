@@ -4,7 +4,7 @@
 
 Selamat datang di proyek Smart IoT Data Logger! Proyek ini merupakan solusi inovatif berbasis ESP32-WROOM-CP210X untuk mengumpulkan data dari sensor dan mengelolanya secara efisien. Data yang dikumpulkan akan dikirim melalui MQTT Broker ke Ubidots, kemudian diteruskan ke MongoDB Atlas untuk penyimpanan dan analisis lebih lanjut. Dengan proyek ini, Anda dapat dengan mudah memantau data secara real-time dan mengotomatiskan sistem berbasis sensor.
 
-🚀 Ubidots - [Dashboard visualization](https://stem.ubidots.com/app/dashboards/67b92b5d39cee11b203d2526)
+🚀 Ubidots - [Dashboard visualization](https://stem.ubidots.com/app/dashboards/public/dashboard/UVW-bxdUxIEqA-4v6tAI4RZTiEFPtydHpibtzKN5bcI?navbar=true&contextbar=false)
 
 ## 📣 Authors
 
